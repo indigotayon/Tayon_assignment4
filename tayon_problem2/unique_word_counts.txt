@@ -1,0 +1,9 @@
+waves 2
+butter 2
+traveler 1
+ocean 1
+geography 1
+coffee 3
+science 3
+traveling 1
+math 1
